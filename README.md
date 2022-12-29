@@ -1,4 +1,4 @@
-## :hand: WHOAMI
+### :hand: WHOAMI
 
 - [Playmuse] (https://playmuse.org/) Frontend Developer
 - Full JS Lover
@@ -6,7 +6,7 @@
 - Found of traveling, sports and cooking
 - Writing Disco and House music [Check my stuff](https://soundcloud.com/sun_rhythms)
 
-Development for me is an opportunity to make our world better, creating helpful and high quality products.
+##### Development for me is an opportunity to make our world better, creating helpful and high quality products.
 
 ### Successfully working with next technologies:
 
