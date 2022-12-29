@@ -14,5 +14,5 @@
 
 ---
 
-### 📫 Always for new acquaintances and networking:
+### 📫 Open for new acquaintances and networking:
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>](https://t.me/omomnomnom) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/anton-antuskov-714139260/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/sunrhythmss)
