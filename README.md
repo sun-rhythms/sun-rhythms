@@ -1,4 +1,4 @@
-## :hand: WHOAMI
+## 👋 WHOAMI
 
 - [Playmuse](https://playmuse.org) Frontend Developer
 - Full JS Lover
