@@ -9,7 +9,7 @@
 ### Development for me is an opportunity to make our world better, creating helpful and high quality products!
 
 ### Successfully working with next technologies:
-<img src="https://img.shields.io/badge/JavaScript-696969?style=for-the-badge&logo=JavaScript&logoColor=343434"/> <img src="https://img.shields.io/badge/React-696969?style=for-the-badge&logo=React&logoColor=343434"/> <img src="https://img.shields.io/badge/HTML5-696969?style=for-the-badge&logo=HTML5&logoColor=343434"/>
+<img src="https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-696969?style=for-the-badge&logo=React&logoColor=343434"/> <img src="https://img.shields.io/badge/HTML5-696969?style=for-the-badge&logo=HTML5&logoColor=343434"/>
 
 
 <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=343434"/>
