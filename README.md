@@ -4,7 +4,7 @@
 - Full JS Lover
 - Inspiring by new technologies, non-standart applied solutions, useful literature and everything that broadens the mind
 - Found of traveling, sports and cooking
-- Writing Disco and House music [<img src="https://img.shields.io/badge/Check my stuff!-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white"/>](https://soundcloud.com/sun_rhythms)
+- Writing Disco and House music [<img src="https://img.shields.io/badge/Check my stuff!-FF3300?style=flat-square&logo=SoundCloud&logoColor=white"/>](https://soundcloud.com/sun_rhythms)
 
 ### Development for me is an opportunity to make our world better, creating helpful and high quality products!
 
