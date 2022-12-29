@@ -10,7 +10,7 @@
 
 ## Successfully working with next technologies:
 
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
 
 ###Always for new acquaintances and networking 👋
