@@ -9,8 +9,22 @@
 ### Development for me is an opportunity to make our world better, creating helpful and high quality products!
 
 ### Successfully working with next technologies:
+<img src="https://img.shields.io/badge/JavaScript-696969?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-696969?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-696969?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Sass-696969?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Bootstrap-696969?style=for-the-badge&logo=Bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+
+
+
+
 
 ###Always for new acquaintances and networking 👋
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
