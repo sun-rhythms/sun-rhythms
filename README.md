@@ -1,6 +1,5 @@
 ## 👋 WHOAMI
 
-- [Playmuse](https://playmuse.org) Frontend Developer
 - Full JS Lover
 - Inspiring by new technologies, non-standart applied solutions, useful literature and everything that broadens the mind
 - Found of traveling, sports and cooking
@@ -9,7 +8,7 @@
 ---
 
 ### 👨‍💻 Successfully working with next technologies:
-<img src="https://img.shields.io/badge/HTML5-343434?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-343434?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>  <img src="https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/React-343434?style=for-the-badge&logo=React&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Redux-343434?style=for-the-badge&logo=Redux&logoColor=764ABC"/>  <img src="https://img.shields.io/badge/TypeScript-343434?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>  <img src="https://img.shields.io/badge/Cypress-343434?style=for-the-badge&logo=Cypress&logoColor=white"/>  <img src="https://img.shields.io/badge/Jest-343434?style=for-the-badge&logo=Jest&logoColor=C21325"/> 
+<img src="https://img.shields.io/badge/HTML5-343434?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-343434?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>  <img src="https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/React-343434?style=for-the-badge&logo=React&logoColor=61DAFB"/>/> 
 
 ---
 
