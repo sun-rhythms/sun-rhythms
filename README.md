@@ -1,4 +1,4 @@
-## 👋 WHOAMI
+## 👋  WHOAMI
 
 - Full JS Lover
 - Inspiring by new technologies, non-standart applied solutions, useful literature and everything that broadens the mind
